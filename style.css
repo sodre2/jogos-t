@@ -1,0 +1,29 @@
+header img {
+    height: 70px;
+    width: 70px;
+}
+.cartao{
+    display: flex ;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.titulo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.foto{
+    height: 286px;
+    width: 286px;
+}
+
+.card-texto{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+}
